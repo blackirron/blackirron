@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a987803c-6537-44ed-9126-8a42276e74f9" width="300" />
+  <img src="https://www.behance.net/gallery/87602523/Chill-Mario/modules/506717475"/>
 </p>
