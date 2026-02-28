@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" alt="Chill Mario">
+  <img src="![933fd79795eb9](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)" alt="Chill Mario">
 </p>
