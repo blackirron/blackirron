@@ -1,6 +1,7 @@
 Hi..  Samir Here...
 
 B.Tech @ IIT Dhanbad
+
 Building systems that actually work.
 
 I’m obsessed with understanding how systems behave at the lowest level —
