@@ -92,7 +92,7 @@ Tools        →  Git · GDB · Valgrind · Chrome DevTools
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=333&icon_color=a8ff78&title_color=f0f0f0&text_color=888&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samir P Nimgade&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=333&icon_color=a8ff78&title_color=f0f0f0&text_color=888&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0a0a0a&border_color=333&title_color=f0f0f0&text_color=888)
 
