@@ -9,7 +9,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=500&lines=built+a+container+runtime+from+scratch;now+learning+how+machines+learn;IIT+Dhanbad+%7C+intern@teachmyrobot.in;breaking+things+responsibly+since+2022)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=500&lines=I+love+to+build;currently+working+with+machine+learning;wishing+to+accelerate+my+ideas;and+build+useful+products;@IIT+Dhanbad+%7C+interned+at+teachmyrobot.in)
 
 
 
