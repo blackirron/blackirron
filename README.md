@@ -1,8 +1,6 @@
 <div align="center">
 <h1>Samir ngl</h1>
 
----
-
 <p><em>systems builder · learning ml · Doer</em></p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=500&lines=I+love+to+build!;Currently+learning+and+deploying+machine+learning.;Wishing+to+accelerate+my+ideas;and+build+useful+products;B.Tech.@IIT+Dhanbad+%7C+interned+at+teachmyrobot.in)
