@@ -12,7 +12,8 @@
 
 mining machinary by major, builder by compulsion. i write code that probably works,
 design things that definitely look good, and occasionally touch grass.
-currently: striving at IIT ISM · breaking things with ML · moving forward
+<br>
+ currently: striving at IIT ISM · breaking things with ML · moving forward
 > *"ship it, then fix it"* — me, always</div>
 ## 🛠️ Tech Stack
 
