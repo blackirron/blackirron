@@ -9,7 +9,7 @@
 
 ## 👋 hey, i'm Samir
 
-mining machinery by major, builder by compulsion. i write code that probably works,
+striver by major, builder by passion. i write code that probably works,
 design things that definitely look good, and occasionally touch grass.
 <br>
  currently: striving at IIT ISM · breaking things with ML · moving forward
