@@ -35,6 +35,17 @@ design things that definitely look good, and occasionally touch grass.
 
 into: quant research (WorldQuant Brain) · product management · competitive programming
 
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=blackirronRestro-Mgmt-Project%2FblackirronRestro-Mgmt-Project&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=blackirronRestro-Mgmt-Project/blackirronRestro-Mgmt-Project&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=blackirronRestro-Mgmt-Project/blackirronRestro-Mgmt-Project&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=blackirronRestro-Mgmt-Project/blackirronRestro-Mgmt-Project&type=date&legend=top-left" />
+ </picture>
+</a>
+
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" alt="Chill Mario">
 
 </div>
