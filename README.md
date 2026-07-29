@@ -14,7 +14,7 @@ design things that definitely look good, and occasionally touch grass.
 <br>
  currently: striving at IIT ISM · breaking things with ML · moving forward
 <br>
-> *"ship it, then fix it"* — me, always</div>
+> *"ship it, then fix it"* - me, always</div>
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
