@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=600&lines=I+love+to+build!;Learning+and+deploying+machine+learning;Shipping+AI-powered+products+end+to+end;B.Tech.+%40+IIT+Dhanbad+%7C+interned+%40+teachmyrobot.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-pravin)
-[![GitHub followers](https://img.shields.io/github/followers/blackirron?style=for-the-badge&color=9745F5&labelColor=black)](https://github.com/blackirron)
+
 
 </div>
 
