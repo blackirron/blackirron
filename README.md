@@ -16,11 +16,14 @@ Hi, I am Samir. Mechanical engineering background, self-taught into ML/DL and sy
 
 ## 🎓 Certifications
 
-- **Machine Learning Specialization** - Stanford(online)
-- **Deep Learning Specialization** - Stanford(online)
-  - Course 1: Neural Networks and Deep Learning
-  - Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-  - Course 4: Convolutional Neural Networks
+<div align="center">
+
+| Certification | Provider | Coverage |
+|:---|:---:|:---|
+| **Machine Learning Specialization** | Stanford (online) | Full specialization |
+| **Deep Learning Specialization** | Stanford (online) | Course 1 · Course 2 · Course 4 |
+
+</div>
 
 ## 🚀 Featured Projects
 
@@ -35,6 +38,8 @@ Hi, I am Samir. Mechanical engineering background, self-taught into ML/DL and sy
 Also shipping fast, AI-assisted product experiments separately from hand-written code - see the **[shipping log](https://blackirron.github.io/shipped-products/)**.
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -51,16 +56,20 @@ Also shipping fast, AI-assisted product experiments separately from hand-written
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
 **Currently:** quant research (WorldQuant BRAIN) · product management (PM Club, IIT ISM) · competitive programming
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackirron&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9745F5&line=9745F5&point=ffffff" width="100%"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=blackirron&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackirron&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=blackirron&theme=tokyonight&hide_border=true&background=0D1117&ring=9745F5&fire=9745F5" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=blackirron&theme=tokyonight&hide_border=true&background=0D1117&ring=9745F5&fire=9745F5&hide_longest_streak=true" height="165"/>
 
 </div>
 
