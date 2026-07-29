@@ -8,9 +8,9 @@
 
 </div>
 
-## 👋 About
+## 👋 Hi
 
-Mechanical engineering background, self-taught into ML/DL and systems programming. I build things end to end - from a U-Net trained on satellite radar data to a container runtime built from raw namespaces and cgroups. Comfortable running models locally (Ollama, RAG pipelines with FAISS + LangChain) as well as wiring up hosted model APIs for production use. Also active in product management through IIT ISM's PM Club and quant research through WorldQuant BRAIN.
+I am Samir. Mechanical engineering background, self-taught into ML/DL and systems programming. I build things end to end - from a U-Net trained on satellite radar data to a container runtime built from raw namespaces and cgroups. Comfortable running models locally (Ollama, RAG pipelines with FAISS + LangChain) as well as wiring up hosted model APIs for production use. Also active in product management through IIT ISM's PM Club and quant research through WorldQuant BRAIN.
 
 > *"Ship it, then fix it."* - me, always
 
