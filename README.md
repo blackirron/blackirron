@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Samir</h1>
+<h1>Samir ngl</h1>
 
-<p><em>Mining Machinery Engineering @ IIT (ISM) Dhanbad · building ML, systems, and products</em></p>
+<p><em>Sophomore @ IIT (ISM) Dhanbad · building ML, systems, and products</em></p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=600&lines=B.Tech+Mining+Machinery+Engineering+%40+IIT+ISM+Dhanbad;Building+ML%2C+systems%2C+and+products;PM+Club+%C2%B7+WorldQuant+BRAIN+%C2%B7+competitive+programming;Ship+first%2C+refine+after.)
 
@@ -16,8 +16,8 @@ Mechanical engineering background, self-taught into ML/DL and systems programmin
 
 ## 🎓 Certifications
 
-- **Machine Learning Specialization** - DeepLearning.AI
-- **Deep Learning Specialization** - DeepLearning.AI
+- **Machine Learning Specialization** - Stanford(online)
+- **Deep Learning Specialization** - Stanford(online)
   - Course 1: Neural Networks and Deep Learning
   - Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   - Course 4: Convolutional Neural Networks
