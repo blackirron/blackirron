@@ -33,7 +33,7 @@ Hi, I am Samir. Mechanical engineering background, self-taught into ML/DL and sy
 | **[Minimal Container Runtime](https://github.com/blackirron/Minimal-container-runtime)** | A container runtime built from scratch - namespaces, OverlayFS, cgroup v2, veth networking with NAT | Python, Linux internals |
 | **[PM Network](https://github.com/blackirron/product-hub)** | "GitHub for Product Managers" - a full pnpm monorepo: Express API, React frontend, Postgres + Drizzle, OpenAPI-driven codegen | TypeScript, Express, Postgres, React |
 | **[IsThisAI](https://github.com/blackirron/isThisAI-non-KISS)** | AI-text/image detector with real auth, a Pro tier, and a server-side-verified Razorpay payment flow - not just a client callback | FastAPI, SQLAlchemy, Razorpay, LLM vision |
-| **Local AI Stack** | Self-hosted LLM environment - Ollama for local inference, a RAG pipeline with FAISS + LangChain, and a ReAct agent | Ollama, LangChain, FAISS |
+| **[Local AI Stack](https://blackirron.github.io/shipped-products/)** | Self-hosted LLM environment - Ollama for local inference, a RAG pipeline with FAISS + LangChain, and a ReAct agent | Ollama, LangChain, FAISS |
 
 Also shipping fast, AI-assisted product experiments separately from hand-written code - see the **[shipping log](https://blackirron.github.io/shipped-products/)**.
 
