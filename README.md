@@ -4,7 +4,7 @@
 
 <p><em>Sophomore @ IIT (ISM) Dhanbad · building ML, systems, and products</em></p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=600&lines=B.Tech+@+Mechanical+ Department+%40+IIT+ISM+Dhanbad;Building+ML%2C+systems%2C+and+products;PM+Club+%C2%B7+WorldQuant+BRAIN+%C2%B7+competitive+programming;Ship+first%2C+refine+after.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=600&lines=B.Tech+%40+Mechanical+ Department,+IIT+ISM+Dhanbad;Building+ML%2C+systems%2C+and+products;PM+Club+%C2%B7+WorldQuant+BRAIN+%C2%B7+competitive+programming;Ship+first%2C+refine+after.)
 
 </div>
 
