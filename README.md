@@ -19,8 +19,8 @@ Hi, I am Samir. Mechanical engineering background, self-taught into ML/DL and sy
 
 | Certification | Provider | Coverage |
 |:---|:---:|:---|
-| **Machine Learning Specialization** | Stanford (online) | Full specialization |
-| **Deep Learning Specialization** | Stanford (online) | Course 1 · Course 2 · Course 4 |
+| **Machine Learning Specialization** |DeepLearning.AI | Full specialization |
+| **Deep Learning Specialization** | DeepLearning.AI | Course 1 · Course 2 · Course 4 |
 
 </div>
 
