@@ -2,7 +2,7 @@
 
 # Samir Pravin Nimgade
 
-### Mechanical Engineering @ IIT (ISM) Dhanbad · ML/AI · Systems · Robotics
+  ML/AI · Systems · Robotics
 
 Building intelligent systems at the intersection of **engineering, machine learning,
 and software** — from NLP and local LLMs to computer vision for lunar radar data
