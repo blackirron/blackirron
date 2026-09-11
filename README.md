@@ -4,7 +4,7 @@
 
   ML/AI · Systems · Robotics
 
-Building intelligent systems at the intersection of **engineering, machine learning,
+Building intelligent systems at the intersection of **engineering, deep learning,
 and software** — from NLP and local LLMs to computer vision for lunar radar data
 and Linux systems built from first principles.
 
@@ -18,10 +18,10 @@ and Linux systems built from first principles.
 
 ## About
 
-I'm a second-year B.Tech. student in **Mechanical Engineering at IIT (ISM) Dhanbad**,
+I'm a second-year B.Tech. student in **Mechanical Department at IIT (ISM) Dhanbad**,
 but much of my work happens outside the boundaries of my formal coursework.
 
-I started exploring machine learning and software independently and gradually moved
+I started exploring machine learning and software and gradually moved
 from small experiments to building complete systems — learning by implementing,
 breaking things, investigating why they broke, and rebuilding them properly.
 
@@ -221,7 +221,7 @@ research are different skills**, and I value both.
 ## Technical Interests
 
 ```text
-Machine Learning
+Deep Learning
 ├── NLP
 │   ├── Language Models
 │   ├── Multilingual NLP
