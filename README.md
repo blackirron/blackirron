@@ -27,7 +27,7 @@ breaking things, investigating why they broke, and rebuilding them properly.
 
 My interests currently sit around:
 
-- **Machine Learning & NLP**
+- **Deep Learning & NLP**
 - **LLMs, RAG and intelligent agents**
 - **Systems programming and Linux internals**
 - **Robotics and human–robot interaction**
