@@ -6,7 +6,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9745F5&center=true&width=600&lines=B.Tech+%40+Mechanical+Department,+IIT+ISM+Dhanbad;Building+ML%2C+systems%2C+and+products;PM+Club+%C2%B7+WorldQuant+BRAIN+%C2%B7+competitive+programming;Ship+first%2C+refine+after.)
 
-[![GitHub](https://img.shields.io/badge/GitHub-blackirron-181717?style=flat-square&logo=github)](https://github.com/blackirron)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samir%20Pravin%20Nimgade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/samir-pravin)
 
 </div>
