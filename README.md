@@ -10,7 +10,6 @@ and Linux systems built from first principles.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-blackirron-181717?style=flat-square&logo=github)](https://github.com/blackirron)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samir%20Pravin%20Nimgade-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
