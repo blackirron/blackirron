@@ -137,7 +137,7 @@ Machine Learning
 
 <div align="">
 
-**Also into:**  Product Management (PM Club, IIT ISM) and Competitive Programming
+**Also into:**  Product Management (PM Club, IIT ISM) and Competitive Programmin'
 
 </div>
 
