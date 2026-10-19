@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Samir Pravin Nimgade</h1>
+<h1> </h1>
 
 <p><em>Sophomore @ IIT (ISM) Dhanbad · building ML, systems, and products</em></p>
 
